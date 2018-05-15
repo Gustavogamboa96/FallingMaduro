@@ -1,0 +1,13 @@
+sceneSetups:
+- path: Assets/scenes/intro.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/scenes/howto.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/scenes/gameplay.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/scenes/endofgame.unity
+  isLoaded: 0
+  isActive: 0
